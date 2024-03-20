@@ -1,3 +1,19 @@
-ul{
-    list-style: none;
+.rectangulo-celeste{
+    background-color: aqua;
+    height: 25%;
+}
+
+.rectangulo-amarillo{
+    background-color: yellow;
+    height: 25%;
+}
+
+.rectangulo-naranjo{
+    background-color: orange;
+    height: 25%;
+}
+
+.rectangulo-rojo{
+    background-color: red;
+    height: 25%;
 }
